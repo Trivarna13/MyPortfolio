@@ -1,6 +1,8 @@
 # MyPortfolio
 Welcome to my personal portfolio website, where I showcase my skills, certifications, education, and projects. This website was created using HTML, CSS, and JavaScript, and it serves as a platform to present my professional journey and achievements. Explore the various sections to learn more about me and my work.
 
+https://trivarna13.github.io/MyPortfolio/
+
 #### Home Page
 ![image](https://github.com/Trivarna13/MyPortfolio/assets/104765948/37770e6c-67ec-45f0-8b9a-6b04fd86c57a)
 
